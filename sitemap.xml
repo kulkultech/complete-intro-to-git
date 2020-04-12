@@ -3,17 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kulkultech.gitlab.io/complete-intro-to-git/posts/my-first-post/</loc>
-    <lastmod>2020-04-12T11:49:52+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kulkultech.gitlab.io/complete-intro-to-git/</loc>
     <lastmod>2020-04-12T11:49:52+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kulkultech.gitlab.io/complete-intro-to-git/posts/</loc>
+    <loc>https://kulkultech.gitlab.io/complete-intro-to-git/prerequisite/</loc>
     <lastmod>2020-04-12T11:49:52+07:00</lastmod>
   </url>
   
