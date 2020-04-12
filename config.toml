@@ -1,4 +1,4 @@
 baseURL = "https://kulkultech.gitlab.io/complete-intro-to-git/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Complete Intro to Git"
 theme = "hugo-theme-learn"
