@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://kulkultech.gitlab.io/complete-intro-to-git/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+theme = "hugo-theme-learn"
