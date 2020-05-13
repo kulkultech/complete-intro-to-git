@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides on Complete Intro to Git</title>
-    <link>https://kulkultech.gitlab.io/complete-intro-to-git/materials/</link>
+    <link>https://kulkultech.github.io/complete-intro-to-git/materials/</link>
     <description>Recent content in Slides on Complete Intro to Git</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Apr 2020 11:49:52 +0700</lastBuildDate>
     
-	<atom:link href="https://kulkultech.gitlab.io/complete-intro-to-git/materials/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kulkultech.github.io/complete-intro-to-git/materials/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
