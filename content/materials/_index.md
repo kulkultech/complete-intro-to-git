@@ -6,4 +6,7 @@ draft: false
 
 # Download our slide deck
 
-[Download here!](https://www.dropbox.com/s/8cbkbcdihxbjcjl/GIt%20%26%20Github%20Workshop%20Slides.pdf?dl=0)
+[![Download Slides: Click to download!][logo]][slide]
+
+[logo]: ./front-slide.png "Front Slide"
+[slide]: https://www.dropbox.com/s/8cbkbcdihxbjcjl/GIt%20%26%20Github%20Workshop%20Slides.pdf?dl=0

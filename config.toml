@@ -2,3 +2,6 @@ baseURL = "https://kulkultech.gitlab.io/complete-intro-to-git/"
 languageCode = "en-us"
 title = "Complete Intro to Git"
 theme = "hugo-theme-learn"
+
+[markup.goldmark.renderer]
+unsafe= true
